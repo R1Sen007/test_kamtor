@@ -1,5 +1,5 @@
 # test_kamtor
-Test task for Kamtor.
+Test task for Kamtor. /n
 Задания: 
 
 Напишите код программы на Python, которая будет в реальном времени (с максимально возможной скоростью) считывать текущую цену фьючерса XRP/USDT на бирже Binance. 
